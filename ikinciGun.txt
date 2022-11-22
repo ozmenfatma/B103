@@ -7,3 +7,5 @@ git  github ikinci gun ikinci deneme
 
 
 git  github ikinci gun ikinci deneme fatma BrancH i deneme
+
+git  github ikinci gun ikinci deneme master BrancH i deneme
